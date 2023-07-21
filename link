@@ -1,0 +1,7 @@
+Merge sort
+https://chat.openai.com/c/2be93ca5-14be-4d08-9baf-04b09ea32011
+
+https://chat.openai.com/c/e96a593d-c289-4e4c-a5ef-6f401bab5091
+
+>last element value si = mid(same in left recursion)
+>mid+1, ei value same (right recursion)
